@@ -1,2 +1,0 @@
-# clg-java
-clg class
